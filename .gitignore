@@ -1,0 +1,8 @@
+htpasswd.txt
+
+data/packages/*
+!data/packages/.gitkeep
+
+**/dist
+**/__pycache__
+**/.pytest_cache

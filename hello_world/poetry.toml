@@ -1,0 +1,3 @@
+[repositories]
+[repositories.local]
+url = "http://localhost:88/"
